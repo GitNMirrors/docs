@@ -22,6 +22,7 @@ Mecanics
 - X axis: 
 	Direct drive
 	NEMA 23 2/4 Phase 1,8° Stepper "57BYGH-209B-16"
+	
 	Leadshine M542-05 Driver
 - Y axis: 
 	Reduction belt
