@@ -38,7 +38,7 @@ Mirrors & Lenses
 
 Software
 --------
-LasercutEngrave (aka LaserCut3.3 ?)
+LasercutEngrave (aka LaserCut3.3)
 
 
 Links
