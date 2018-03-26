@@ -1,6 +1,6 @@
-============
+==============
 Jindiao JD3040
-============
+==============
 
 
 Specs
@@ -45,6 +45,6 @@ Links
 -----
 Manufacturer_.
 
-.._Manufacturer:
+.. _Manufacturer:
 http://jdengraver.com/1b-mini-engraver.html
 
