@@ -45,6 +45,5 @@ Links
 -----
 Manufacturer_.
 
-.. _Manufacturer:
-http://jdengraver.com/1b-mini-engraver.html
+.. _Manufacturer: http://jdengraver.com/1b-mini-engraver.html
 
