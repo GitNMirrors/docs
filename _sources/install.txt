@@ -43,7 +43,7 @@ LasercutEngrave (aka LaserCut3.3)
 
 Links
 -----
-Manufacturer_.
+Manufacturer_
 
 .. _Manufacturer: http://jdengraver.com/1b-mini-engraver.html
 
