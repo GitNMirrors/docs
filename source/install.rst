@@ -14,7 +14,7 @@ Motion Card
 
 LNC-LS232A 
 HMI: PAD1000-EN
-
+.. thumbnail:: LNC-LS232A.jpg
 
 Mecanics
 --------
