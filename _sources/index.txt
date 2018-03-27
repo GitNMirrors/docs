@@ -11,9 +11,10 @@ Contents:
 .. toctree::
    :maxdepth: 3
 
-   install
+   Machines <machines/jd3040>
+
    
-   Introduction <motioncards/Ruida>
+   Motioncards <motioncards/Ruida>
    				<motioncards/index>
 
 
