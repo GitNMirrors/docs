@@ -9,13 +9,13 @@ Welcome to SmokeNMirrors's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    install
    
-   :caption: Motion Cards: 
+   Introduction <motioncards/Ruida>
+   				<motioncards/index>
 
-		motioncards/test
 
 
 Indices and tables
