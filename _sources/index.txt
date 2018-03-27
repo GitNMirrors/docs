@@ -12,7 +12,7 @@ Contents:
    :maxdepth: 1
    :glob:
    
-   guieds/index
+   guides/index
    machines/index
    motioncards/index
 
