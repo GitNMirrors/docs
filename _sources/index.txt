@@ -9,13 +9,12 @@ Welcome to SmokeNMirrors's documentation!
 Contents:
 
 .. toctree::
+   :maxdepth: 1
    :glob:
-   :maxdepth: 2
    
-   machines/*
+   machines/index
 
-   motioncards/*
-
+   motioncards/index
 
 
 Indices and tables
