@@ -9,13 +9,12 @@ Welcome to SmokeNMirrors's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 3
-
-   Machines <machines/jd3040>
-
+   :glob:
+   :maxdepth: 2
    
-   Motioncards <motioncards/Ruida>
-   				<motioncards/index>
+   machines/*
+
+   motioncards/*
 
 
 
